@@ -4,4 +4,8 @@ die Vergangenheit
 die Sonne
 die Brille
 das Auto
+das Haus
+die Häuser
+das Frühstück
+die Möbel
 
