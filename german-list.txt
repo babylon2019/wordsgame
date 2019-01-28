@@ -8,4 +8,69 @@ das Haus
 die Häuser
 das Frühstück
 die Möbel
-
+ehrlich
+die Zeit
+die Zukunft
+der Morgen
+morgen
+der Tag
+der Nachmittag
+der Abend
+übermorgen
+gestern
+vorgestern
+die Woche
+der Monat
+das Wochenende
+das Jahr
+das Jahrhundert
+der Montag
+der Dienstag
+der Mittwoch
+der Donnerstag
+der Freitag
+der Samstag
+der Sonntag
+der Januar
+der Februar
+der März
+der April
+der Mai
+der Juni
+der Juli
+der August
+der September
+der Oktober
+der November
+der Dezember
+die Jahreszeit
+der Frühling
+der Sommer
+der Herbst
+der Winter
+die Küche
+das Bad
+das Wohnzimmer
+der Balkon
+die Terrasse
+das Schlafzimmer
+das Zimmer
+die Garage
+der Flur
+der Garten
+das Dach
+das Fenster
+die Treppe
+die Tür
+der Keller
+die Wand
+das Arbeitszimmer
+der Kamin
+das Badezimmer
+die Badewanne
+der Spiegel
+die Seife
+das Handtuch
+die Dusche
+der Bademantel
+der Wasserhahn
