@@ -74,3 +74,27 @@ das Handtuch
 die Dusche
 der Bademantel
 der Wasserhahn
+anziehen
+ausziehen
+duschen
+waschen
+putzen
+schlafen
+einschlafen
+aufwachen
+aufstehen
+essen
+das Licht
+die Lampe
+die Decke
+die Tischdecke
+das Bett
+das Kissen
+die Gabel
+das Messer
+der Löffel
+der Teller
+die Flasche
+das Glas
+der Topf
+die Pfanne
