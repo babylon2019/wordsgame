@@ -98,3 +98,25 @@ die Flasche
 das Glas
 der Topf
 die Pfanne
+klingen
+der Wecker
+bleiben
+liegen
+abtrocknen
+eincremen
+die Zahnbürste
+die Zahnpasta
+ausspülen
+trocknen
+der Föhn
+kochen
+füllen
+die Kaffeemaschine
+das Kaffeepulver
+der Filter
+bestehen
+schmieren
+belegen
+legen
+mitnehmen
+die Kleinigkeit
