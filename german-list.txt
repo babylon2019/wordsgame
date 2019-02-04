@@ -120,3 +120,47 @@ belegen
 legen
 mitnehmen
 die Kleinigkeit
+kaufen
+einkaufen
+trinken
+das Wasser
+der Tee
+der Kaffee
+der Saft
+die Säfte
+die Milch
+der Apfel
+die Äpfel
+die Banane
+die Kirsche
+die Birne
+der Pfirsich
+die Nektarine
+die Avocado
+die Aprikose
+die Dattel
+die Feige
+die Orange
+die Mandarine
+die Grapefruit
+die Zitrone
+die Honigmelone
+die Wassermelone
+die Kokosnuss
+die Kokosnüsse
+die Pflaume
+die Weintraube
+die Kiwi
+das Obst
+das Essen
+das Brötchen
+die Wurst
+die Würste
+der Käse
+der Joghurt
+das Kännchen
+das Hörnchen
+die Schokolade
+die Marmelade
+der Honig
+das Müsli
