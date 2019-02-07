@@ -164,3 +164,42 @@ die Schokolade
 die Marmelade
 der Honig
 das Müsli
+die Kälte
+der Schnee
+das Eis
+eiskalt
+frieren
+zufrieren
+erfrieren
+festfrieren
+der Pfosten
+schneien
+rodeln
+schaufeln
+streuen
+glatt
+der Eiszapfen
+der Eiskristall
+gleichen
+aussehen
+unterschiedlich
+die Eisschicht
+dick
+das Glatteis
+die Eisfläche
+der Eisregen
+die Eisscholle
+die Lawine
+der Eisberg
+sperren
+der Frost
+mild
+verregnet
+der Neuschnee
+die Schneedecke
+die Schneewehe
+der Schneesturm
+die Schneestürme
+die Schneeflocke
+der Schneeregen
+der Schneematsch
