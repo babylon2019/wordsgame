@@ -1,4 +1,4 @@
-der Tisch
+﻿der Tisch
 der Stuhl
 die Vergangenheit
 die Sonne
@@ -203,3 +203,37 @@ die Schneestürme
 die Schneeflocke
 der Schneeregen
 der Schneematsch
+das Badezimmer
+die Badezimmer
+der Boden
+die Böden
+die Fliese
+bunt
+die Dusche
+der Duschvorhang
+die Duschvorhänge
+der Stern
+die Toilette
+das Toilettenpapier
+der Spülkasten
+die Spülkästen
+abspülen
+die Schnur
+die Schnüre
+das Waschbecken
+der Spiegel
+die Spiegel
+der Wasserhahn
+die Wasserhähne
+die Badewanne
+das Quietscheentchen
+das Regal
+das Duschgel
+das Shampoo
+die Shampoos
+der Zahnputzbecher
+die Zahnputzbecher
+der Teppich
+der Wäschekorb
+die Wäschekörbe
+die Belüftung
