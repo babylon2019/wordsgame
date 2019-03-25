@@ -237,3 +237,4 @@ der Teppich
 der Wäschekorb
 die Wäschekörbe
 die Belüftung
+die Seife
